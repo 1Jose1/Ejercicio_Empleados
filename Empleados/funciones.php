@@ -11,7 +11,7 @@
 	// Iniciar Conexion con la Base de Datos
 	function iniciarConexion(){		
 		// Parametros para la Base de Datos
-		$servername="localhost";
+		$servername="10.131.14.7";
 		$usuario="root";
 		$contrasena="rootroot";
 		$baseDatos="employees";
